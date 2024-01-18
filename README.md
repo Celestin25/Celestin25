@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Celestin HAKORIMANA</h1>
 <h3 align="center">A passionate about Machine Learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celestin25" alt="celestin25" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@hakorimanacel13" target="blank"><img src="https://img.shields.io/twitter/follow/@hakorimanacel13?logo=twitter&style=for-the-badge" alt="@hakorimanacel13" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://codepen.io/Celestin25/full/qBKyePo](https://codepen.io/Celestin25/full/qBKyePo)
 
 - 💬 Ask me about **Python and web development**
